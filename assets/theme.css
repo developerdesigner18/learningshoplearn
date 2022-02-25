@@ -6998,6 +6998,11 @@ hr {
   margin-bottom: 0; }
 
 
+<<<<<<< HEAD
 header.site-header.border-bottom.logo--left {
     background-color: red;
+=======
+header.site-header.border-bottom.logo--left, .site-header__mobile-nav {
+    background-color: bisque;
+>>>>>>> d53b8209a25827aa5d0eb51635765a6c4fdcc573
 }
