@@ -6998,6 +6998,6 @@ hr {
   margin-bottom: 0; }
 
 
-header.site-header.border-bottom.logo--left {
+header.site-header.border-bottom.logo--left, .site-header__mobile-nav {
     background-color: bisque;
 }
